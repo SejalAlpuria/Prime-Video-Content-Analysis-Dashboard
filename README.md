@@ -56,3 +56,4 @@ Dataset: Amazon Prime Video Titles Dataset (from Kaggle/public sources)
 
 
 ✨ Dashboard Preview
+Prime video analysis image.png
