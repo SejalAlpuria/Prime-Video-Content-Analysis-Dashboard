@@ -53,12 +53,6 @@ Dataset: Amazon Prime Video Titles Dataset (from Kaggle/public sources)
 
 🔹 Comparative analysis with Netflix/Disney+
 
-📂 Repository Structure
-Prime-Video-Analysis/
-│── data/                # Dataset (or link to source)
-│── notebooks/           # Jupyter notebooks for analysis
-│── dashboard/           # Power BI / Tableau files
-│── src/                 # Python scripts
-│── README.md            # Documentation
+
 
 ✨ Dashboard Preview
